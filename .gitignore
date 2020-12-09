@@ -1,0 +1,10 @@
+
+*.iml
+*.pyc
+*.xml
+*.ipynb
+
+Animals/.DS_Store
+Animals/pet_animals/.ipynb_checkpoints/pet-checkpoint.py
+Animals/pet_animals/.ipynb_checkpoints/cat-checkpoint.py
+Animals/.ipynb_checkpoints/__init__-checkpoint.py
